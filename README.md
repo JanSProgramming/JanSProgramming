@@ -3,7 +3,7 @@
 
 - I’m currently learning **Java, C#, native android mobile development, PHP, HTML, CSS, JavaScript, SQL**
 
-- How to reach me **jan-schwenger@web.de**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
